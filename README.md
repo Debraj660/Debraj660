@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/debraj-dalai-11533b280" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    &nbsp;&nbsp;[debraj-dalai-11533b280](https://linkedin.com/in/debraj-dalai-11533b280)
+   
   </a>
 </p>
 
@@ -19,17 +19,14 @@
 <p align="left">
   <a href="https://www.codechef.com/users/debraj_dalai" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-    &nbsp;&nbsp;[CodeChef — debraj_dalai](https://www.codechef.com/users/debraj_dalai)
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/debraj_2438" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-    &nbsp;&nbsp;[Codeforces — debraj_2438](https://codeforces.com/profile/debraj_2438)
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/itsdebrajdalai" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    &nbsp;&nbsp;[LeetCode — itsdebrajdalai](https://www.leetcode.com/itsdebrajdalai)
   </a>
 </p>
 
