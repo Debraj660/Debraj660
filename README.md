@@ -1,5 +1,5 @@
 # Hi 👋, I'm Debraj Dalai
-### I am a competitive programmer and MERN Stack web developer.
+### ACM-ICPC Kanpur Regionalist 2025 | Expert on Codeforces | Knight on Leetcode | 4 star on Codechef and MERN Stack web developer.
 
 **📫 How to reach me:** **debrajdalai29@gmail.com**
 
